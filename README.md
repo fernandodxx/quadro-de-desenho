@@ -44,11 +44,11 @@ Como este é um projeto front-end puro, não há necessidade de instalação.
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
+    git clone https://github.com/fernandodxx/Drawing-board.git
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
-    cd SEU-REPOSITORIO
+    cd Drawing-board
     ```
 3.  Abra o arquivo `index.html` no seu navegador de preferência.
 
